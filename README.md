@@ -23,12 +23,12 @@ Tech Stack
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/tours-app.git
+   git clone https://github.com/shrooq-hussien/DB-project.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd tours-app
+   cd DB-project
    ```
 
 3. Install the required Python dependencies:
@@ -168,7 +168,7 @@ the schema is ![Schemafinal drawio](https://github.com/user-attachments/assets/a
 - User interface: Users can browse categories, filter services by price and capacity, book services, and receive an email ticket with the booking details.
 
 
-```
+
 
  **`requirements.txt`**
 
